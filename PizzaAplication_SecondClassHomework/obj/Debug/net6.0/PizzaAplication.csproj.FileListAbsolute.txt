@@ -1,0 +1,34 @@
+C:\Users\Erika\Desktop\leraning about ASP.NET\PizzaAplication\obj\Debug\net6.0\PizzaAplication.csproj.AssemblyReference.cache
+C:\Users\Erika\Desktop\leraning about ASP.NET\PizzaAplication\obj\Debug\net6.0\PizzaAplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erika\Desktop\leraning about ASP.NET\PizzaAplication\obj\Debug\net6.0\PizzaAplication.AssemblyInfoInputs.cache
+C:\Users\Erika\Desktop\leraning about ASP.NET\PizzaAplication\obj\Debug\net6.0\PizzaAplication.AssemblyInfo.cs
+C:\Users\Erika\Desktop\leraning about ASP.NET\PizzaAplication\obj\Debug\net6.0\PizzaAplication.csproj.CoreCompileInputs.cache
+C:\Users\Erika\Desktop\leraning about ASP.NET\PizzaAplication\obj\Debug\net6.0\PizzaAplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Erika\Desktop\leraning about ASP.NET\PizzaAplication\obj\Debug\net6.0\PizzaAplication.RazorAssemblyInfo.cache
+C:\Users\Erika\Desktop\leraning about ASP.NET\PizzaAplication\obj\Debug\net6.0\PizzaAplication.RazorAssemblyInfo.cs
+C:\Users\Erika\Desktop\programming\Dot.Net Class\leraning about ASP.NET\PizzaAplication\obj\Debug\net6.0\PizzaAplication.csproj.AssemblyReference.cache
+C:\Users\Erika\Desktop\programming\Dot.Net Class\leraning about ASP.NET\PizzaAplication\obj\Debug\net6.0\PizzaAplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erika\Desktop\programming\Dot.Net Class\leraning about ASP.NET\PizzaAplication\obj\Debug\net6.0\PizzaAplication.AssemblyInfoInputs.cache
+C:\Users\Erika\Desktop\programming\Dot.Net Class\leraning about ASP.NET\PizzaAplication\obj\Debug\net6.0\PizzaAplication.AssemblyInfo.cs
+C:\Users\Erika\Desktop\programming\Dot.Net Class\leraning about ASP.NET\PizzaAplication\obj\Debug\net6.0\PizzaAplication.csproj.CoreCompileInputs.cache
+C:\Users\Erika\Desktop\programming\Dot.Net Class\leraning about ASP.NET\PizzaAplication\obj\Debug\net6.0\PizzaAplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Erika\Desktop\programming\Dot.Net Class\leraning about ASP.NET\PizzaAplication\obj\Debug\net6.0\PizzaAplication.RazorAssemblyInfo.cache
+C:\Users\Erika\Desktop\programming\Dot.Net Class\leraning about ASP.NET\PizzaAplication\obj\Debug\net6.0\PizzaAplication.RazorAssemblyInfo.cs
+C:\Users\Erika\Desktop\programming\Dot.Net Class\leraning about ASP.NET\PizzaAplication\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Erika\Desktop\programming\Dot.Net Class\leraning about ASP.NET\PizzaAplication\bin\Debug\net6.0\appsettings.json
+C:\Users\Erika\Desktop\programming\Dot.Net Class\leraning about ASP.NET\PizzaAplication\bin\Debug\net6.0\PizzaAplication.staticwebassets.runtime.json
+C:\Users\Erika\Desktop\programming\Dot.Net Class\leraning about ASP.NET\PizzaAplication\bin\Debug\net6.0\PizzaAplication.exe
+C:\Users\Erika\Desktop\programming\Dot.Net Class\leraning about ASP.NET\PizzaAplication\bin\Debug\net6.0\PizzaAplication.deps.json
+C:\Users\Erika\Desktop\programming\Dot.Net Class\leraning about ASP.NET\PizzaAplication\bin\Debug\net6.0\PizzaAplication.runtimeconfig.json
+C:\Users\Erika\Desktop\programming\Dot.Net Class\leraning about ASP.NET\PizzaAplication\bin\Debug\net6.0\PizzaAplication.dll
+C:\Users\Erika\Desktop\programming\Dot.Net Class\leraning about ASP.NET\PizzaAplication\bin\Debug\net6.0\PizzaAplication.pdb
+C:\Users\Erika\Desktop\programming\Dot.Net Class\leraning about ASP.NET\PizzaAplication\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Erika\Desktop\programming\Dot.Net Class\leraning about ASP.NET\PizzaAplication\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Erika\Desktop\programming\Dot.Net Class\leraning about ASP.NET\PizzaAplication\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Erika\Desktop\programming\Dot.Net Class\leraning about ASP.NET\PizzaAplication\obj\Debug\net6.0\scopedcss\bundle\PizzaAplication.styles.css
+C:\Users\Erika\Desktop\programming\Dot.Net Class\leraning about ASP.NET\PizzaAplication\obj\Debug\net6.0\scopedcss\projectbundle\PizzaAplication.bundle.scp.css
+C:\Users\Erika\Desktop\programming\Dot.Net Class\leraning about ASP.NET\PizzaAplication\obj\Debug\net6.0\PizzaAplication.dll
+C:\Users\Erika\Desktop\programming\Dot.Net Class\leraning about ASP.NET\PizzaAplication\obj\Debug\net6.0\refint\PizzaAplication.dll
+C:\Users\Erika\Desktop\programming\Dot.Net Class\leraning about ASP.NET\PizzaAplication\obj\Debug\net6.0\PizzaAplication.pdb
+C:\Users\Erika\Desktop\programming\Dot.Net Class\leraning about ASP.NET\PizzaAplication\obj\Debug\net6.0\PizzaAplication.genruntimeconfig.cache
+C:\Users\Erika\Desktop\programming\Dot.Net Class\leraning about ASP.NET\PizzaAplication\obj\Debug\net6.0\ref\PizzaAplication.dll
