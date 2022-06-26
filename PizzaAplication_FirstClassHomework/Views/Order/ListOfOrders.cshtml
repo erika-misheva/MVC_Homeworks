@@ -1,0 +1,28 @@
+﻿@using PizzaAplication.Models.Domain
+
+@model List<Order>
+
+<h4>List of orders: </h4>
+
+<div>
+    @for (int i = 0; i < @Model.Count; i++)
+    {
+            <ul>
+                <li>The user @Model.ElementAt(i).User.Name @Model.ElementAt(i).User.LastName 
+                 ordered the pizza @Model.ElementAt(i).Pizza.Name </li>
+        <li>The user paid with @Model.ElementAt(i).PaymentMethod</li>
+            </ul>
+             
+ 
+       
+      @*  <ul>
+            @for(int i=0; i<= OrderJson.Count; i++)
+            {
+                if(@Order.Id == @OrderJson.OrderId)
+                {
+                    <li>Delivery Address : @OrderJson.Address</li>
+                }
+            }
+        </ul>*@
+    }
+</div>
