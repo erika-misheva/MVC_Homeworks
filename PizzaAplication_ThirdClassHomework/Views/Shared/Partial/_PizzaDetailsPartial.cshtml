@@ -1,0 +1,12 @@
+﻿@model PizzaViewModel;
+
+@*the content of _PizzaGreeting.cshtml will be replaced here*@
+
+<h2>Details for @Model.Name</h2>
+<p>Price: @Model.Price</p>
+
+@if(@Model.IsOnPromotion){
+    <h4>The Pizza @Model.Name is on promotion </h4>
+} else{
+    <h4>The Pizza @Model.Name isn't on promotion </h4>
+}

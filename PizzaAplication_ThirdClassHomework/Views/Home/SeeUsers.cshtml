@@ -1,0 +1,15 @@
+﻿@model List<UserViewModel>
+
+<h2>Users:</h2>
+
+
+
+<ul>
+    @for (int i = 0; i < @Model.Count; i++)
+    {
+        var userVM = @Model[i];
+
+        <li>@userVM.Name @userVM.LastName</li>
+    }
+
+</ul>
